@@ -1,0 +1,14 @@
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Estructura de datos I\Empresa Aut\EmpresaAut\bin\Debug\net8.0\EmpresaAut.exe
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Estructura de datos I\Empresa Aut\EmpresaAut\bin\Debug\net8.0\EmpresaAut.deps.json
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Estructura de datos I\Empresa Aut\EmpresaAut\bin\Debug\net8.0\EmpresaAut.runtimeconfig.json
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Estructura de datos I\Empresa Aut\EmpresaAut\bin\Debug\net8.0\EmpresaAut.dll
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Estructura de datos I\Empresa Aut\EmpresaAut\bin\Debug\net8.0\EmpresaAut.pdb
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Estructura de datos I\Empresa Aut\EmpresaAut\obj\Debug\net8.0\EmpresaAut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Estructura de datos I\Empresa Aut\EmpresaAut\obj\Debug\net8.0\EmpresaAut.AssemblyInfoInputs.cache
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Estructura de datos I\Empresa Aut\EmpresaAut\obj\Debug\net8.0\EmpresaAut.AssemblyInfo.cs
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Estructura de datos I\Empresa Aut\EmpresaAut\obj\Debug\net8.0\EmpresaAut.csproj.CoreCompileInputs.cache
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Estructura de datos I\Empresa Aut\EmpresaAut\obj\Debug\net8.0\EmpresaAut.dll
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Estructura de datos I\Empresa Aut\EmpresaAut\obj\Debug\net8.0\refint\EmpresaAut.dll
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Estructura de datos I\Empresa Aut\EmpresaAut\obj\Debug\net8.0\EmpresaAut.pdb
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Estructura de datos I\Empresa Aut\EmpresaAut\obj\Debug\net8.0\EmpresaAut.genruntimeconfig.cache
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Estructura de datos I\Empresa Aut\EmpresaAut\obj\Debug\net8.0\ref\EmpresaAut.dll
