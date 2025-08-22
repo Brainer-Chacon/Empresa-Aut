@@ -12,3 +12,4 @@ C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Estructura de da
 C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Estructura de datos I\Empresa Aut\EmpresaAut\obj\Debug\net8.0\EmpresaAut.pdb
 C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Estructura de datos I\Empresa Aut\EmpresaAut\obj\Debug\net8.0\EmpresaAut.genruntimeconfig.cache
 C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Estructura de datos I\Empresa Aut\EmpresaAut\obj\Debug\net8.0\ref\EmpresaAut.dll
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Estructura de datos I\Empresa Aut\EmpresaAut\obj\Debug\net8.0\EmpresaAut.sourcelink.json
